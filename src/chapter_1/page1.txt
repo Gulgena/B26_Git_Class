@@ -2,10 +2,10 @@
 
 
 
-This is the start of my book
-Page 1 will help us get started
+This is the start of my book.
+Page 1 will help us get started.
 
-Java is cool
+Java is cool!
 
 
-My life is my daughter
+My life is my daughter.
